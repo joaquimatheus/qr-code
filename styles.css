@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: grey
+}
+
+section {
+    margin: 2rem;
+    max-width: 900px;
+    align-items: center;
+}
+
+
+.card {
+    padding: 1rem;
+    border-radius: 10px;
+    background-color: snow; 
+    justify-content: center;
+    box-shadow: 2px 4px 8px 0;
+    transition: 0.3s;
+    width: 40%
+}
+
+.card-body {
+    padding: 2px 16px;
+}
+
+img {
+    border-radius: 15px;
+}
